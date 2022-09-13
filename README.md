@@ -1,4 +1,4 @@
-### Hi there 👋 Tsz Hin Wong OPS445 NAA
+### Hi there 👋
 
 <!--
 **thwong5/thwong5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
